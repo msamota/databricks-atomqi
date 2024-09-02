@@ -1,0 +1,9 @@
+{
+	"name": "atomqidatafacv01",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5846bab4-cc79-444a-8770-43ecf19e5d39",
+		"tenantId": "b9764757-cfeb-4d45-8925-d569b1b887c2"
+	}
+}
